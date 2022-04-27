@@ -78,7 +78,8 @@ function App() {
           name: '女',
           type: 'bar',
           barWidth: '25%',
-          data: [ordinary_f, single_m]
+          data: [ordinary_f, single_f],
+          color: '#F36094'
         }
       ]
     }
